@@ -1,0 +1,21 @@
+h1 {
+	color: navy;
+	font-family: 'Caveat', cursive;
+	font-size: 3em;
+}
+h2 {
+	color: darkmagenta;
+	background-color: mistyrose;
+}
+p {
+	color: darkkhaki;
+}
+
+section {
+	display: block;
+}
+
+/* img:hover {
+	scale: 2;
+	rotate: 25deg;
+} */
